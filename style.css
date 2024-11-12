@@ -1,0 +1,26 @@
+.footer{
+    height:470px;
+    margin-top: 90px;
+
+}
+.text1 p:hover{
+    color: white;
+    cursor: pointer;
+}
+.text2 p:hover{
+    text-decoration: underline;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    opacity: 100%;
+}
+a{
+    opacity: 80%;
+}
+.home{
+    cursor: pointer;
+}
+.menu{
+    padding-left: 60px;
+}
